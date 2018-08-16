@@ -8,6 +8,6 @@ function nameToAttributes(drivers) {
     return Object.assign({firstName: driver_array[0], lastName: driver_array[1]});
   });
 };
-function attributesToPhrase() {
+function attributesToPhrase(drivers) {
   
 }
